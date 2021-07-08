@@ -1,0 +1,15 @@
+{
+  "name": "subarraysum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "subArrSum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "kaily newman",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "jest": "^27.0.6"
+  }
+}
